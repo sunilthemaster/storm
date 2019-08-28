@@ -8,7 +8,7 @@
  * STORM-1916: Add ability for worker-first classpath
  * STORM-1954: Large Trident topologies can cause memory issues due to DefaultResourceDeclarer object reading config
  * STORM-1913: Additions and Improvements for Trident RAS API
- * STORM-1959: Add missing license header to KafkaPartitionOffsetLag
+ * STORM-1959: Add missing license header to KafkaPartitionOffsetLag.
  * STORM-1249: port backtype.storm.security.serialization.BlowfishTupleSerializer-test to java
  * STORM-1238: port backtype.storm.security.auth.ThriftServer-test to java
  * STORM-1237: port backtype.storm.security.auth.ThriftClient-test to java
